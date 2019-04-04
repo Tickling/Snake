@@ -1,0 +1,4 @@
+D:\TMP01\ZmeikaV2\ZDll\bin\Debug\ZDll.dll
+D:\TMP01\ZmeikaV2\ZDll\bin\Debug\ZDll.pdb
+D:\TMP01\ZmeikaV2\ZDll\obj\Debug\ZDll.dll
+D:\TMP01\ZmeikaV2\ZDll\obj\Debug\ZDll.pdb
